@@ -1,0 +1,213 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bu",
+				"buffer"
+			],
+			[
+				"buff",
+				"buff_size"
+			],
+			[
+				"de",
+				"decimation"
+			],
+			[
+				"u",
+				"uint32_t"
+			],
+			[
+				"file",
+				"fileExt"
+			],
+			[
+				"fp",
+				"fpDate"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bernd/ionic2/ionic2-flash-card/src/app/app.module.ts",
+		"/Users/bernd/ionic2/ionic2-flash-card/src/components/flash-card/flash-card.html",
+		"/Users/bernd/ionic2/ionic2-flash-card/src/components/flash-card/flash-card.ts",
+		"/Users/bernd/ionic2/ionic2-flash-card/src/components/flash-card/flash-card.scss",
+		"/Users/bernd/ionic2/ionic2-flash-card/src/pages/home/home.html",
+		"/Users/bernd/GoogleDrive/private/projects/pictures/movePictures.sh",
+		"/Users/bernd/redpitaya/sources/bj_1st.c",
+		"/Users/bernd/GoogleDrive/private/projects/bioresonance/redpitaya/testParameters.c",
+		"/Users/bernd/ionic2/ionic2-lists/app/providers/to-dos/to-dos.ts",
+		"/Users/bernd/ionic2/ionic2-lists/app/pages/contacts/contacts.ts",
+		"/Users/bernd/ionic2/ionic2-lists/app/pages/contacts/contacts.html",
+		"/Users/bernd/ionic2/ionic2-lists/app/pages/ladder/ladder.ts",
+		"/Users/bernd/ionic2/ionic2-lists/app/pages/ladder/ladder.html",
+		"/Users/bernd/ionic2/ionic2-lists/app/pages/notes/notes.ts",
+		"/Users/bernd/GoogleDrive/private/ionic2/ionic2-mosum/src/pages/providers/constants.ts",
+		"/Users/bernd/GoogleDrive/private/ionic2/ionic2-mosum/src/index.html",
+		"/Users/bernd/ionic2/ionic2-lists/app/pages/notes/notes.html",
+		"/Users/bernd/ionic2/ionic2-lists/app/pages/groceries/groceries.html",
+		"/Users/bernd/ionic2/ionic2-lists/app/pages/groceries/groceries.ts",
+		"/Users/bernd/ionic2/ionic2-lists/app/pages/home/home.html",
+		"/Users/bernd/ionic2/ionic2-lists/app/pages/home/home.ts",
+		"/Users/bernd/ionic2/ionic2-lists/app/app.ts",
+		"/Users/bernd/GoogleDrive/private/ionic2/ionic2-lists-1/app/app.ts",
+		"/Users/bernd/GoogleDrive/pasteur/cih/ cytometry/FlowSOM notes",
+		"/Users/bernd/GoogleDrive/private/ionic2/whatwasdone.txt",
+		"/Users/bernd/Desktop/bayesCours/packages.R",
+		"/Users/bernd/GoogleDrive/pasteur/formation2016/sshpass.connect.txt",
+		"/Users/bernd/ionic2/lists1/app/app.ts",
+		"/Users/bernd/ionic2/lists1/package.json",
+		"/Users/bernd/ionic2/quicklists/app/pages/home/home.js",
+		"/Users/bernd/ionic2/quicklists/app/providers/checklist-model/checklist-model.js",
+		"/Users/bernd/ionic2/quicklists/app/pages/checklist/checklist.js",
+		"/Users/bernd/ionic2/quicklists/app/pages/checklist/checklist.html",
+		"/Users/bernd/ionic2/quicklists/app/pages/home/home.html",
+		"/Users/bernd/ionic2/quicklists/www/index.html",
+		"/Users/bernd/ionic2/quicklists/app/theme/app.core.scss",
+		"/Volumes/Dell Portable Hard Drive/Rstudio/Cytometry/001 E18 V WLSM-2.fcs"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"buff_size",
+			"app",
+			"SafeThreadAcqData",
+			"rp_AcqSetArmKeep",
+			"sigSum",
+			"load_fpga",
+			"info",
+			"inf",
+			"info",
+			"added",
+			"remoteDB",
+			"error",
+			"getTodos",
+			"title",
+			"handl",
+			"sync",
+			"Controller",
+			"^",
+			"{",
+			"^"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}
