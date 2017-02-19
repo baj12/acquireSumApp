@@ -11,7 +11,7 @@
 
 
 
-
+CBooleanParameter ledState("LED_STATE", CBaseParameter::RW, false, 0);
 
 const char *rp_app_desc(void)
 {
@@ -53,7 +53,15 @@ int rp_get_signals(float ***s, int *sig_num, int *sig_len)
 
 
 
-
+ledState.Update();
+if (ledState.Value() == false)
+{
+    rp_DpinSetState(RP_LED0, RP_LOW);
+}
+else
+{
+    rp_DpinSetState(RP_LED0, RP_HIGH);
+}
 
 
 
