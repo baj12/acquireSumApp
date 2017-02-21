@@ -2,6 +2,12 @@
 
 
 
+#include <DataManager.h>
+#include <CustomParameters.h>
+#include "rpApp.h"
+
+#define IS_NEW(X) X.Value() != X.NewValue()
+
 
 #ifdef __cplusplus
 extern "C" {
