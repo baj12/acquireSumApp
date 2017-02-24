@@ -10,7 +10,7 @@
 
     // App configuration
     APP.config = {};
-    APP.config.app_id = 'myFirstApp';
+    APP.config.app_id = 'acquireSumApp';
     APP.config.app_url = '/bazaar?start=' + APP.config.app_id + '?' + location.search.substr(1);
     APP.config.socket_url = 'ws://' + window.location.hostname + ':9002';
 
